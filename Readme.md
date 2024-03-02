@@ -2,10 +2,16 @@
 This approach – Gradient-weighted Class Activation Mapping (Grad-CAM), uses the gradients of any target concept (say ‘dog’ in a classification network or a sequence of words in captioning network) flowing into the final convolutional layer to produce a coarse localization map highlighting the important regions in the image for predicting the concept.
 
 Examples 
+<p float="left">
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/lion_tiger.png" width="100" />
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/sialency.png" width="100" /> 
+</p>
 
-![image](https://github.com/anmol-c03/Grad_cam/blob/main/images/lion_tiger.png)
+<p float="left">
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/cat_dog.png" width="100" />
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/learn_cat_dog.png" width="100" /> 
+</p>
 
-![Guided Grad Cam](https://github.com/anmol-c03/Grad_cam/blob/main/images/sialency.png)
 
 
 ## Table of Contents
