@@ -3,13 +3,13 @@ This approach – Gradient-weighted Class Activation Mapping (Grad-CAM), uses th
 
 Examples 
 <p float="left">
-  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/lion_tiger.png" width="100" />
-  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/sialency.png" width="100" /> 
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/lion_tiger.png" width="200" />
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/sialency.png" width="200" /> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/cat_dog.png" width="100" />
-  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/learn_cat_dog.png" width="100" /> 
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/cat_dog.png" width="200" />
+  <img src="https://github.com/anmol-c03/Grad_cam/blob/main/images/learn_cat_dog.png" width="200" /> 
 </p>
 
 
