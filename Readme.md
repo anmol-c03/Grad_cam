@@ -3,9 +3,9 @@ This approach – Gradient-weighted Class Activation Mapping (Grad-CAM), uses th
 
 Examples 
 
-![image](GradCam/images/Guided_Grad_Cam/lion_tiger.png)
+![image](/Users/anmolchalise/Desktop/AI_ML_model/GradCam/images/lion_tiger.png)
 
-![Guided Grad Cam](GradCam/images/Guided_Grad_Cam/final_sialency.png)
+![Guided Grad Cam](/Users/anmolchalise/Desktop/AI_ML_model/GradCam/images/mask_cat_dog.png)
 
 
 ## Table of Contents
