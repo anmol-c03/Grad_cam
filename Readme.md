@@ -41,4 +41,5 @@ Libraray Used: Tensorflow
 
 Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
 Ramprasaath R. Selvaraju · Michael Cogswell · Abhishek Das · Ramakrishna Vedantam · Devi Parikh · Dhruv Batra
+(https://arxiv.org/pdf/1610.02391.pdf)
 
