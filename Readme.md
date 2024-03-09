@@ -31,7 +31,7 @@ layer_name : By default i have used last layer of ResNet50. If you want to expli
 
 
 ## Usage
-Download  VGG-16/VGG-19/AlexNet using tf.keras.applications.VGG16/GG-19/AlexNet.
+Download  VGG-16/VGG-19/AlexNet using tf.keras.applications.VGG16/VGG-19/AlexNet.
 
 
 ## Credits
